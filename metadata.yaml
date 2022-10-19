@@ -1,0 +1,24 @@
+_repo: Auf-markischer-Erde_69133
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zobeltitz, Hanns von
+    gutenberg_agent_id: '55126'
+    url: http://www.gutenberg.org/2009/agents/55126
+description: ''
+gutenberg_issued: '2022-10-11'
+identifiers:
+  gutenberg: '69133'
+language: de
+pgterms:marc905: 20190413071759zobeltitz
+pgterms:marc906: '1910'
+pgterms:marc907: de
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Neufeld & Henius,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Auf märkischer Erde
+url: http://www.gutenberg.org/ebooks/69133
